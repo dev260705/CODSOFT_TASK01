@@ -4,8 +4,11 @@ A simple and intuitive To-Do List application built using Python and Tkinter. Th
 
 Features
 **Add Tasks: Quickly add new tasks to your to-do list.
+
 Mark as Complete: Mark tasks as done with a single click.
+
 Delete Tasks: Remove tasks from the list as needed.
+
 User-Friendly Interface: Designed with simplicity and ease of use in mind.**
 
 Technologies Used
