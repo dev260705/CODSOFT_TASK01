@@ -3,17 +3,11 @@
 A simple and intuitive To-Do List application built using Python and Tkinter. This application helps users efficiently manage their daily tasks through an easy-to-use graphical interface.
 
 Features
-Add Tasks: Quickly add new tasks to your to-do list.
-
+**Add Tasks: Quickly add new tasks to your to-do list.
 Mark as Complete: Mark tasks as done with a single click.
-
 Delete Tasks: Remove tasks from the list as needed.
-
-Persistent Storage: Save tasks locally to retain them across sessions (optional, depending on implementation).
-
-User-Friendly Interface: Designed with simplicity and ease of use in mind.
+User-Friendly Interface: Designed with simplicity and ease of use in mind.**
 
 Technologies Used
 Programming Language: Python
-
-GUI Framework: [Tkinter, PyQt, or other]
+GUI Framework: Tkinter
